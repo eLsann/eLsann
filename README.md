@@ -72,14 +72,26 @@ I believe every dataset tells a story — my job is to find it.
 
 <br/><br/>
 
-<!-- Stats Cards with Gradient -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=eLsann&show_icons=true&bg_color=30,0D1117,1a1a2e&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=eLsann&background=0D1117&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&hide_border=true&border_radius=15" alt="Streak"/>
+<!-- Stats Cards -->
+<img width="54%" src="https://github-readme-stats.vercel.app/api?username=eLsann&show_icons=true&bg_color=30,0D1117,1a1a2e&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="Stats"/>
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eLsann&layout=donut&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&hide_border=true&border_radius=15&langs_count=6" alt="Languages"/>
 
 </div>
 
+---
+
+## Pinned Projects
+
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eLsann&layout=donut&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&hide_border=true&border_radius=15&langs_count=6" alt="Languages"/>
+
+<!-- Replace 'REPO_NAME' with your actual repository names -->
+<a href="https://github.com/eLsann/REPO_NAME_1">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=eLsann&repo=eLsann&theme=dark&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&hide_border=true&border_radius=10" />
+</a>
+<a href="https://github.com/eLsann/REPO_NAME_2">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=eLsann&repo=eLsann&theme=dark&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&hide_border=true&border_radius=10" />
+</a>
+
 </div>
 
 ---
