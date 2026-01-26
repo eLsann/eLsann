@@ -93,7 +93,18 @@ Every dataset has a story — and I'm here to uncover it with the speed of thund
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 </div>
 
-##  GitHub Trophies 
+<div align="center">
+
+## ⚡ Wisdom of Thunder ⚡
+
+<!-- Dynamic Anime Quote -->
+<a href="https://github.com/PiyushSuthar/github-readme-quotes">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=zenitsu&animation=true" />
+</a>
+
+</div>
+
+## ⚡ GitHub Trophies ⚡
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=eLsann&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
@@ -103,24 +114,25 @@ Every dataset has a story — and I'm here to uncover it with the speed of thund
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 </div>
 
-##  GitHub Statistics 
+## ⚡ GitHub Statistics ⚡
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=eLsann&show_icons=true&theme=transparent&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&hide_border=true&border_radius=10" alt="Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=eLsann&theme=transparent&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&hide_border=true&border_radius=10" alt="Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=eLsann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_radius=10" alt="Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=eLsann&theme=tokyonight&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&border_radius=10" alt="Streak"/>
 
 </div>
 
 <div align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eLsann&layout=compact&theme=transparent&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&hide_border=true&border_radius=10&langs_count=8" alt="Languages"/>
+<!-- Using distinct colors for Langs to make it colorful -->
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eLsann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&border_radius=10&langs_count=8" alt="Languages"/>
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 </div>
 
-##  Contribution Graph 
+## ⚡ Contribution Graph ⚡
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=eLsann&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area_color=FFD700&area=true&hide_border=true&radius=10" width="95%" alt="Activity"/>
@@ -130,7 +142,7 @@ Every dataset has a story — and I'm here to uncover it with the speed of thund
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 </div>
 
-##  Connect With Me 
+## ⚡ Connect With Me ⚡
 
 <div align="center">
   
