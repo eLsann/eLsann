@@ -92,7 +92,7 @@ const eLsan = {
 ---
 
 ### Machine Learning & Deep Learning  
-<img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" alt="icon" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" alt="icon" width="50" height="50" /> <img src="https://skillicons.dev/icons?i=pytorch" alt="icon" width="50" height="50" />
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -103,7 +103,7 @@ const eLsan = {
 ---
 
 ### Data Processing & Computer Vision
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="icon" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="icon" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="icon" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="icon" width="50" height="50" />
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -114,7 +114,7 @@ const eLsan = {
 ---
 
 ### Visualization & Notebooks
-<img src="https://techstack-generator.vercel.app/jupyter-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://skillicons.dev/icons?i=matplotlib" alt="icon" width="50" height="50" /> <img src="https://techstack-generator.vercel.app/jupyter-icon.svg" alt="icon" width="50" height="50" />
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
