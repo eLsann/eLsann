@@ -82,7 +82,7 @@ const eLsan = {
 <div align="center">
 
 ### Languages & Databases
-<img src="https://skillicons.dev/icons?i=python" alt="Python" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" /> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
 
 ![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=0D1117)
 ![MySQL](https://img.shields.io/badge/MySQL-FFD700?style=for-the-badge&logo=mysql&logoColor=0D1117)
@@ -125,7 +125,7 @@ const eLsan = {
 ---
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git" alt="Git" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="55" height="55" /> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Colab" width="75" height="75" />
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="55" height="55" /> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Colab" width="80" height="80" />
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
