@@ -36,27 +36,7 @@ Every dataset has a story — and I'm here to uncover it.
 
 ---
 
-## ⚡ Thunder Python Snake
 
-<div align="center">
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eLsann/eLsann/output/github-contribution-grid-snake-zenitsu.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eLsann/eLsann/output/github-contribution-grid-snake.svg" />
-  <img alt="github contributions snake animation" src="https://raw.githubusercontent.com/eLsann/eLsann/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br/>
-</div>
-
-<div align="center">
-<!-- Additional Python & Thunder Gifs to reinforce theme -->
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40" alt="Python"/> &nbsp;&nbsp;
-<img src="https://media.giphy.com/media/3o7btQ8jDTPGDpgc6I/giphy.gif" width="40" alt="Thunder"/> &nbsp;&nbsp;
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40" alt="Python"/>
-
-</div>
 
 ---
 
