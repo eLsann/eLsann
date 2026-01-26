@@ -1,11 +1,16 @@
 <div align="center">
   
+<!-- God Speed Zenitsu -->
+<img src="https://i.pinimg.com/originals/82/58/01/825801c36720f78233f2187652392762.gif" width="100%" alt="Zenitsu God Speed"/>
+
+<br/>
+
 <!-- Animated Header with Gold Theme -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:FFD700&height=200&section=header&text=M.%20Hasan%20Nafi&fontSize=40&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=Data%20Enthusiast%20|%20Informatics%20Student&descSize=14&descAlignY=55&descAlign=50"/>
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=450&height=100&lines=%E2%9A%A1+Hello!+I+am+eLsan+%E2%9A%A1;Python+Developer+%F0%9F%90%8D;Data+Science+Enthusiast;Thunder+Breathing+First+Form!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=450&height=100&lines=%E2%9A%A1+Hello!+I+am+eLsan+%E2%9A%A1;Python+Developer+%F0%9F%90%8D;Data+Science+Enthusiast;Thunder+Breathing+First+Form!;GOD+LIKE+SPEED+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,19 +25,19 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 </div>
 
-## About Me
+## ⚡ About Me ⚡
 
-<img align="right" alt="Zenitsu Coding" width="280" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Zenitsu Coding" width="280" src="https://media.tenor.com/SwSdbd5D1P8AAAAC/zenitsu-thunder-breathing.gif">
 
 Hello! I am **eLsan**, an Informatics Engineering student passionate about **Data Science** and **Data Analysis**. 
 
-Every dataset has a story — and I'm here to uncover it.
+Every dataset has a story — and I'm here to uncover it with the speed of thunder.
 
 - Currently learning **Machine Learning & Deep Learning**
 - Main language: **Python** 🐍
 - Believer in continuous learning
 
-> *"Even if I'm the weakest, I'll fight with everything I have."* — Zenitsu Agatsuma
+> *"Thunder Breathing, First Form: Thunderclap and Flash."* — Zenitsu Agatsuma
 
 <br clear="both"/>
 
@@ -40,18 +45,11 @@ Every dataset has a story — and I'm here to uncover it.
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 </div>
 
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
-</div>
-
-## Focus Areas
+## ⚡ Focus Areas ⚡
 
 <div align="center">
 
 | Data Analysis | Data Science | Visualization |
-|:<div align="center">
 |:-------------:|:------------:|:-------------:|
 | Pattern discovery | Predictive models | Storytelling with data |
 | Statistical insights | ML algorithms | Interactive dashboards |
