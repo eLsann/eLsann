@@ -4,39 +4,80 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:FFD700&height=180&section=header&text=M.%20Hasan%20Nafi&fontSize=36&fontColor=FFD700&animation=fadeIn&fontAlignY=32&desc=Data%20Scientist%20•%20Machine%20Learning%20Enthusiast&descSize=14&descAlignY=52"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=400&lines=Hello!+I+am+eLsan;Data+Science+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=400&lines=Hello!+I+am+eLsan;Data+Science+Enthusiast;Always+Learning+New+Things;Thunder+Breathing+First+Form!" alt="Typing SVG" />
 </a>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## About Me
+## 👨‍💻 About Me
 
-I'm an **Informatics Engineering student** with a deep passion for **Data Science** and **Machine Learning**.
+<table>
+<tr>
+<td width="50%">
 
-I believe every dataset tells a story — my job is to find it.
+```typescript
+const eLsan = {
+    location: "Indonesia 🇮🇩",
+    education: "Informatics Engineering",
+    interests: ["Data Science", "Machine Learning", "AI"],
+    currentFocus: "Deep Learning & Computer Vision",
+    languages: ["Python", "SQL"],
+    motto: "Every dataset tells a story"
+};
+```
 
-- 🎓 Currently pursuing degree in Informatics Engineering
-- 📊 Learning **Machine Learning** & **Deep Learning**
-- 🐍 Primary Language: **Python**
-- 🔍 Exploring: Computer Vision, Neural Networks
+</td>
+<td width="50%">
 
-> *"If you can only do one thing, hone it to perfection."* — Zenitsu Agatsuma
+**� What I Do:**
+- 📊 Build predictive models from data
+- 🤖 Develop ML algorithms  
+- � Explore neural networks
+- � Extract actionable insights
 
----
+> *"If you can only do one thing, hone it to perfection."*  
+> — Zenitsu Agatsuma ⚡
 
-## Focus Areas
+</td>
+</tr>
+</table>
 
-| Domain | Description |
-|:------:|:------------|
-| **Data Science** | Building predictive models and extracting insights from data |
-| **Machine Learning** | Developing algorithms that learn from patterns |
-| **Deep Learning** | Working with neural networks for complex problems |
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## 🎯 Focus Areas
 
-## Tech Stack
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br><strong>Data Science</strong>
+<br><sub>Predictive Models</sub>
+<br><sub>Statistical Analysis</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="ML" width="65" height="65" />
+<br><strong>Machine Learning</strong>
+<br><sub>Algorithm Development</sub>
+<br><sub>Pattern Recognition</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="DL" width="65" height="65" />
+<br><strong>Deep Learning</strong>
+<br><sub>Neural Networks</sub>
+<br><sub>Computer Vision</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -61,7 +102,8 @@ I believe every dataset tells a story — my job is to find it.
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## GitHub Statistics
 
