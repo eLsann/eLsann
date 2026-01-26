@@ -13,9 +13,11 @@
 
 ## 👨‍💻 About Me
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="left" valign="middle">
 
 ```typescript
 const eLsan = {
@@ -29,7 +31,7 @@ const eLsan = {
 ```
 
 </td>
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="left" valign="middle">
 
 <div align="center">
   ---
@@ -47,6 +49,8 @@ const eLsan = {
 </td>
 </tr>
 </table>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 
