@@ -72,24 +72,14 @@ I believe every dataset tells a story — my job is to find it.
 
 <br/><br/>
 
-<!-- Stats Cards -->
-<img width="54%" src="https://github-readme-stats.vercel.app/api?username=eLsann&show_icons=true&bg_color=30,0D1117,1a1a2e&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="Stats"/>
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eLsann&layout=donut&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&hide_border=true&border_radius=15&langs_count=6" alt="Languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Profile Summary Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eLsann&theme=monokai" alt="Profile Summary" width="100%"/>
+<!-- Profile Summary Card - Custom Theme -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eLsann&theme=github_dark" alt="Profile Summary" width="100%"/>
 
 <br/>
 
 <!-- Additional Summary Stats -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eLsann&theme=monokai" alt="Stats"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eLsann&theme=monokai&utcOffset=7" alt="Productive Time"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eLsann&theme=github_dark" alt="Stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eLsann&theme=github_dark&utcOffset=7" alt="Productive Time"/>
 
 </div>
 
