@@ -103,7 +103,7 @@ const eLsan = {
 ---
 
 ### Data Processing & Computer Vision
-<img src="https://img.icons8.com/color/96/000000/pandas.png" alt="Pandas" width="55" height="55" /> <img src="https://img.icons8.com/color/96/000000/numpy.png" alt="NumPy" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="55" height="55" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="55" height="55" />
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -113,8 +113,8 @@ const eLsan = {
 
 ---
 
-### Visualization& Notebooks
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" width="55" height="55" />
+### Visualization & Notebooks
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=anaconda" alt="Seaborn" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="55" height="55" />
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -125,7 +125,7 @@ const eLsan = {
 ---
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git" alt="Git" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=colab" alt="Colab" width="55" height="55" />
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="55" height="55" /> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Colab" width="55" height="55" />
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
