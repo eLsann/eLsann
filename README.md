@@ -80,17 +80,16 @@ I believe every dataset tells a story — my job is to find it.
 
 ---
 
-## Pinned Projects
-
 <div align="center">
 
-<!-- Replace 'REPO_NAME' with your actual repository names -->
-<a href="https://github.com/eLsann/REPO_NAME_1">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=eLsann&repo=eLsann&theme=dark&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/eLsann/REPO_NAME_2">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=eLsann&repo=eLsann&theme=dark&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&hide_border=true&border_radius=10" />
-</a>
+<!-- Profile Summary Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eLsann&theme=monokai" alt="Profile Summary" width="100%"/>
+
+<br/>
+
+<!-- Additional Summary Stats -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eLsann&theme=monokai" alt="Stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eLsann&theme=monokai&utcOffset=7" alt="Productive Time"/>
 
 </div>
 
