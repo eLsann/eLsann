@@ -125,7 +125,7 @@ const eLsan = {
 ---
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git" alt="Git" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="55" height="55" /> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Colab" width="55" height="55" />
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="55" height="55" /> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Colab" width="75" height="75" />
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
