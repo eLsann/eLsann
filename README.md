@@ -32,7 +32,7 @@ const eLsan = {
 <td width="50%">
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/F2_FfVbM-5cAAAAC/zenitsu-thunder-breathing.gif" width="100%" alt="Zenitsu Thunder Breathing" />
+  ---
 </div>
 
 **🎯 What I Do:**
