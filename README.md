@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Animated Header with Gold Theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:FFD700&height=200&section=header&text=M.%20Hasan%20Nafi&fontSize=40&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=Data%20Enthusiast%20|%20Informatics%20Student&descSize=14&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:FFD700&height=200&section=header&text=M.%20Hasan%20Nafi&fontSize=40&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20|%20Informatics%20Student&descSize=14&descAlignY=55&descAlign=50"/>
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
@@ -14,10 +14,6 @@
 </a>
 
 <br/>
-
-<!-- Profile Counters -->
-![Profile Views](https://komarev.com/ghpvc/?username=eLsann&style=for-the-badge&color=FFD700&label=VISITORS)
-![GitHub Followers](https://img.shields.io/github/followers/eLsann?style=for-the-badge&color=FFD700&labelColor=0D1117&logo=github)
 
 </div>
 
@@ -29,7 +25,7 @@
 
 <img align="right" alt="Zenitsu Coding" width="280" src="https://media.tenor.com/SwSdbd5D1P8AAAAC/zenitsu-thunder-breathing.gif">
 
-Hello! I am **eLsan**, an Informatics Engineering student passionate about **Data Science** and **Data Analysis**. 
+Hello! I am **eLsan**, an Informatics Engineering student passionate about **Data Science** and **Machine Learning**. 
 
 Every dataset has a story — and I'm here to uncover it with the speed of thunder.
 
@@ -49,10 +45,10 @@ Every dataset has a story — and I'm here to uncover it with the speed of thund
 
 <div align="center">
 
-| Data Analysis | Data Science | Visualization |
-|:-------------:|:------------:|:-------------:|
-| Pattern discovery | Predictive models | Storytelling with data |
-| Statistical insights | ML algorithms | Interactive dashboards |
+| Data Science | Deep Learning |
+|:------------:|:-------------:|
+| Predictive models | Neural Networks |
+| ML algorithms | Computer Vision |
 
 </div>
 
@@ -64,9 +60,32 @@ Every dataset has a story — and I'm here to uncover it with the speed of thund
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,pandas,numpy,matlab,seaborn,matlab,mysql,postgres,jupyter&perline=7&theme=dark" />
-</a>
+**Languages & Databases**  
+![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=0D1117)
+![SQL](https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=0D1117)
+![MySQL](https://img.shields.io/badge/MySQL-FFD700?style=for-the-badge&logo=mysql&logoColor=0D1117)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=0D1117)
+
+<br/>
+
+**Machine Learning & Deep Learning**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+<br/>
+
+**Data Processing**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+<br/>
+
+**Visualization & Tools**  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
