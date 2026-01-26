@@ -16,7 +16,9 @@
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
+</div>
 
 ## About Me
 
@@ -34,53 +36,68 @@ Every dataset has a story — and I'm here to uncover it.
 
 <br clear="both"/>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
+</div>
 
 
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
+</div>
 
 ## Focus Areas
 
 <div align="center">
 
 | Data Analysis | Data Science | Visualization |
-|:-------------:|:------------:|:-------------:|
+|:<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
+</div><div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
+</div><div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
+</div><div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
+</div>-:|:<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
+</div><div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
+</div><div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
+</div><div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
+</div>:|:<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
+</div><div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
+</div><div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
+</div><div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
+</div>-:|
 | Pattern discovery | Predictive models | Storytelling with data |
 | Statistical insights | ML algorithms | Interactive dashboards |
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
+</div>
 
-## Tech Stack
+### Tech Stack
 
 <div align="center">
 
-### Languages & Databases
-![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=0D1117)
-![SQL](https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=0D1117)
-![MySQL](https://img.shields.io/badge/MySQL-FFD700?style=for-the-badge&logo=mysql&logoColor=0D1117)
-
-### Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,vscode,git,mysql,postgres,tensorflow,sklearn,pandas,numpy,matlab,seaborn,html,css,js&perline=7&theme=dark" />
+</a>
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
+</div>
 
 ## GitHub Trophies
 
@@ -88,7 +105,9 @@ Every dataset has a story — and I'm here to uncover it.
   <img src="https://github-profile-trophy.vercel.app/?username=eLsann&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
+</div>
 
 ## GitHub Statistics
 
@@ -103,7 +122,9 @@ Every dataset has a story — and I'm here to uncover it.
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eLsann&layout=compact&theme=transparent&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&hide_border=true&border_radius=10&langs_count=8" alt="Languages"/>
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
+</div>
 
 ## Contribution Graph
 
@@ -111,7 +132,9 @@ Every dataset has a story — and I'm here to uncover it.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=eLsann&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area_color=FFD700&area=true&hide_border=true&radius=10" width="95%" alt="Activity"/>
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
+</div>
 
 ## Connect With Me
 
@@ -123,7 +146,9 @@ Every dataset has a story — and I'm here to uncover it.
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
+</div>
 
 <div align="center">
 
