@@ -66,14 +66,20 @@ I believe every dataset tells a story — my job is to find it.
 ## GitHub Statistics
 
 <div align="center">
-  
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=eLsann&show_icons=true&theme=dark&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&hide_border=true&border_radius=10" alt="Stats"/>
-<img width="48%" src="https://streak-stats.demolab.com/?user=eLsann&theme=dark&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&hide_border=true&border_radius=10" alt="Streak"/>
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=eLsann&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" width="100%"/>
+
+<br/><br/>
+
+<!-- Stats Cards with Gradient -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=eLsann&show_icons=true&bg_color=30,0D1117,1a1a2e&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=eLsann&background=0D1117&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&hide_border=true&border_radius=15" alt="Streak"/>
 
 </div>
 
 <div align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eLsann&layout=compact&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&hide_border=true&border_radius=10&langs_count=6" alt="Languages"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eLsann&layout=donut&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&hide_border=true&border_radius=15&langs_count=6" alt="Languages"/>
 </div>
 
 ---
@@ -81,7 +87,7 @@ I believe every dataset tells a story — my job is to find it.
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eLsann&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area_color=FFD700&area=true&hide_border=true&radius=10" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eLsann&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area_color=1a1a2e&area=true&hide_border=true&radius=15&custom_title=Contribution%20Graph" width="98%" alt="Activity Graph"/>
 </div>
 
 ---
