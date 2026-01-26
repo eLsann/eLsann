@@ -21,7 +21,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 </div>
 
-##  About Me 
+## About Me
 
 <img align="right" alt="Zenitsu Coding" width="280" src="https://media.tenor.com/SwSdbd5D1P8AAAAC/zenitsu-thunder-breathing.gif">
 
@@ -91,18 +91,9 @@ Every dataset has a story — and I'm here to uncover it with the speed of thund
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 </div>
 
-<div align="center">
-
-## ⚡ Wisdom of Thunder ⚡
-
-<!-- Dynamic Anime Quote -->
-<a href="https://github.com/PiyushSuthar/github-readme-quotes">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=zenitsu&animation=true" />
-</a>
-
 </div>
 
-## ⚡ GitHub Trophies ⚡
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=eLsann&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
@@ -112,7 +103,7 @@ Every dataset has a story — and I'm here to uncover it with the speed of thund
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 </div>
 
-## ⚡ GitHub Statistics ⚡
+## GitHub Statistics
 
 <div align="center">
   
