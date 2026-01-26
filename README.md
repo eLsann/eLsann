@@ -81,56 +81,76 @@ const eLsan = {
 
 <div align="center">
 
-<table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
-        <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
-        <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" height="48" />
-        <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48" />
-        <br>PyTorch
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="48" height="48" />
-        <br>Scikit-Learn
-    </td>
-</tr>
-<tr>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" />
-        <br>Pandas
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48" />
-        <br>NumPy
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="48" height="48" />
-        <br>OpenCV
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48" />
-        <br>Matplotlib
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48" height="48" />
-        <br>Jupyter
-    </td>
-</tr>
-</table>
+### **Languages & Databases**
+![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=0D1117)
+![MySQL](https://img.shields.io/badge/MySQL-FFD700?style=for-the-badge&logo=mysql&logoColor=0D1117)
+
+```text
+Python  ████████████████████░  95%
+MySQL   ████████████████░░░░░  80%
+```
+<sub>💡 Primary languages for data manipulation and database management</sub>
+
+<br/>
+
+### **Machine Learning Frameworks**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+```text
+TensorFlow     ███████████████░░░░░  75%
+PyTorch        ██████████████████░░  90%
+Scikit-Learn   ████████████████████  100%
+```
+<sub>🤖 Building and training ML models from scratch to production</sub>
+
+<br/>
+
+### **Data Processing & Computer Vision**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+```text
+Pandas   ████████████████████  100%
+NumPy    ████████████████████  100%
+OpenCV   ████████████████░░░░  80%
+```
+<sub>📊 Data transformation, numerical computing, and image processing</sub>
+
+<br/>
+
+### **Visualization & Analytics**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+```text
+Matplotlib  ███████████████████░  95%
+Seaborn     ███████████████████░  95%
+Jupyter     ████████████████████  100%
+```
+<sub>📈 Creating insightful data visualizations and interactive notebooks</sub>
+
+<br/>
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+
+```text
+Git            ████████████████████  100%
+VS Code        ████████████████████  100%
+Google Colab   ███████████████████░  95%
+```
+<sub>⚙️ Development environment and version control for seamless workflow</sub>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 ## GitHub Statistics
