@@ -11,7 +11,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 👨‍💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FFD700&height=70&section=header&text=About%20Me&fontSize=25&fontColor=FFD700&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=50" width="100%"/>
 
 <table>
 <tr>
@@ -46,7 +46,7 @@ const eLsan = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Focus Areas
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FFD700&height=70&section=header&text=Focus%20Areas&fontSize=25&fontColor=FFD700&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=50" width="100%"/>
 
 <div align="center">
 
@@ -77,7 +77,7 @@ const eLsan = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FFD700&height=70&section=header&text=Tech%20Stack&fontSize=25&fontColor=FFD700&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=50" width="100%"/>
 
 <div align="center">
 
@@ -111,7 +111,7 @@ const eLsan = {
 
 
 
-## GitHub Statistics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FFD700&height=70&section=header&text=GitHub%20Statistics&fontSize=25&fontColor=FFD700&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=50" width="100%"/>
 
 <div align="center">
 
@@ -133,7 +133,7 @@ const eLsan = {
 
 ---
 
-## Contribution Activity
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FFD700&height=70&section=header&text=Contribution%20Activity&fontSize=25&fontColor=FFD700&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=50" width="100%"/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eLsann&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area_color=1a1a2e&area=true&hide_border=true&radius=15&custom_title=Contribution%20Graph" width="98%" alt="Activity Graph"/>
@@ -141,7 +141,7 @@ const eLsan = {
 
 ---
 
-## Connect With Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FFD700&height=70&section=header&text=Connect%20With%20Me&fontSize=25&fontColor=FFD700&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=50" width="100%"/>
 
 <div align="center">
 
