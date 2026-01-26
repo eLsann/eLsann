@@ -9,7 +9,7 @@
 
 </div>
 
-<img src="https://media.tenor.com/F2_FfVbM-5cAAAAC/zenitsu-thunder-breathing.gif" width="100%" alt="Zenitsu Thunder Breathing" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 
 ## 👨‍💻 About Me
 
@@ -32,7 +32,7 @@ const eLsan = {
 <td width="50%">
 
 <div align="center">
-  <img src="https://media.tenor.com/1CebZgG4vOAAAAAC/thunder-thunder-lines.gif" width="900" alt="Zenitsu Thunder Breathing" />
+  <img src="https://media1.tenor.com/m/F2_FfVbM-5cAAAAC/zenitsu-thunder-breathing.gif" width="100%" alt="Zenitsu Thunder Breathing" />
 </div>
 
 **🎯 What I Do:**
@@ -48,7 +48,7 @@ const eLsan = {
 </tr>
 </table>
 
-<img src="https://media.tenor.com/F2_FfVbM-5cAAAAC/zenitsu-thunder-breathing.gif" width="100%" alt="Zenitsu Thunder Breathing" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 
 ## Focus Areas
 
@@ -79,7 +79,7 @@ const eLsan = {
 
 </div>
 
-<img src="https://media.tenor.com/F2_FfVbM-5cAAAAC/zenitsu-thunder-breathing.gif" width="100%" alt="Zenitsu Thunder Breathing" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 
 ## Tech Stack
 
@@ -110,7 +110,7 @@ const eLsan = {
 
 </div>
 
-<img src="https://media.tenor.com/F2_FfVbM-5cAAAAC/zenitsu-thunder-breathing.gif" width="100%" alt="Zenitsu Thunder Breathing" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 
 
 
