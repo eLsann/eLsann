@@ -82,7 +82,7 @@ const eLsan = {
 <div align="center">
 
 ### Languages & Databases
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" /> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://skillicons.dev/icons?i=python" alt="Python" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="55" height="55" />
 
 ![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=0D1117)
 ![MySQL](https://img.shields.io/badge/MySQL-FFD700?style=for-the-badge&logo=mysql&logoColor=0D1117)
@@ -92,7 +92,7 @@ const eLsan = {
 ---
 
 ### Machine Learning & Deep Learning  
-<img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" alt="icon" width="50" height="50" /> <img src="https://skillicons.dev/icons?i=pytorch" alt="icon" width="50" height="50" />
+<img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=sklearn" alt="Sklearn" width="55" height="55" />
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -103,7 +103,7 @@ const eLsan = {
 ---
 
 ### Data Processing & Computer Vision
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="icon" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="icon" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="55" height="55" />
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -114,7 +114,7 @@ const eLsan = {
 ---
 
 ### Visualization & Notebooks
-<img src="https://skillicons.dev/icons?i=matplotlib" alt="icon" width="50" height="50" /> <img src="https://techstack-generator.vercel.app/jupyter-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=anaconda" alt="Seaborn" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" width="55" height="55" />
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -125,7 +125,7 @@ const eLsan = {
 ---
 
 ### Tools & Platforms
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="icon" width="50" height="50" />
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=colab" alt="Colab" width="55" height="55" />
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -136,6 +136,7 @@ const eLsan = {
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 
