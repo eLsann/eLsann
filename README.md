@@ -52,30 +52,7 @@ Every dataset has a story — and I'm here to uncover it.
 
 | Data Analysis | Data Science | Visualization |
 |:<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
-</div><div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
-</div><div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
-</div><div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
-</div>-:|:<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
-</div><div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
-</div><div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
-</div><div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
-</div>:|:<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
-</div><div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
-</div><div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
-</div><div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
-</div>-:|
+|:-------------:|:------------:|:-------------:|
 | Pattern discovery | Predictive models | Storytelling with data |
 | Statistical insights | ML algorithms | Interactive dashboards |
 
@@ -85,7 +62,7 @@ Every dataset has a story — and I'm here to uncover it.
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 </div>
 
-### Tech Stack
+### ⚡ Tech Stack ⚡
 
 <div align="center">
 
@@ -99,7 +76,7 @@ Every dataset has a story — and I'm here to uncover it.
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 </div>
 
-## GitHub Trophies
+## ⚡ GitHub Trophies ⚡
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=eLsann&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
@@ -109,7 +86,7 @@ Every dataset has a story — and I'm here to uncover it.
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 </div>
 
-## GitHub Statistics
+## ⚡ GitHub Statistics ⚡
 
 <div align="center">
   
@@ -126,7 +103,7 @@ Every dataset has a story — and I'm here to uncover it.
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 </div>
 
-## Contribution Graph
+## ⚡ Contribution Graph ⚡
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=eLsann&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area_color=FFD700&area=true&hide_border=true&radius=10" width="95%" alt="Activity"/>
@@ -136,7 +113,7 @@ Every dataset has a story — and I'm here to uncover it.
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 </div>
 
-## Connect With Me
+## ⚡ Connect With Me ⚡
 
 <div align="center">
   
