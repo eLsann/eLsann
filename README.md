@@ -73,13 +73,13 @@ I believe every dataset tells a story — my job is to find it.
 <br/><br/>
 
 <!-- Profile Summary Card - Custom Theme -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eLsann&theme=github_dark" alt="Profile Summary" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eLsann&theme=gruvbox" alt="Profile Summary" width="100%"/>
 
 <br/>
 
 <!-- Additional Summary Stats -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eLsann&theme=github_dark" alt="Stats"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eLsann&theme=github_dark&utcOffset=7" alt="Productive Time"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eLsann&theme=gruvbox" alt="Stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eLsann&theme=gruvbox&utcOffset=7" alt="Productive Time"/>
 
 </div>
 
