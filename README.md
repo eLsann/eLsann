@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- God Speed Zenitsu -->
-<img src="https://i.pinimg.com/originals/82/58/01/825801c36720f78233f2187652392762.gif" width="100%" alt="Zenitsu God Speed"/>
+<img src="https://media.giphy.com/media/fUEFJ7gAPBsWQ/giphy.gif" width="100%" alt="Zenitsu God Speed"/>
 
 <br/>
 
@@ -141,7 +141,7 @@ Every dataset has a story — and I'm here to uncover it with the speed of thund
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
+  <img src="https://github.com/Starttoaster/Starttoaster/blob/master/separator.gif?raw=true" width="900" />
 </div>
 
 <div align="center">
