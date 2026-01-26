@@ -133,14 +133,6 @@ const eLsan = {
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/eLsann/eLsann/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## Contribution Activity
 
 <div align="center">
