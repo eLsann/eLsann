@@ -91,7 +91,7 @@ Every dataset has a story — and I'm here to uncover it with the speed of thund
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 </div>
 
-</div>
+
 
 ## GitHub Trophies
 
