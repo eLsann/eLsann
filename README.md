@@ -10,7 +10,7 @@
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=450&height=100&lines=%E2%9A%A1+Hello!+I+am+eLsan+%E2%9A%A1;Python+Developer+%F0%9F%90%8D;Data+Science+Enthusiast;Thunder+Breathing+First+Form!;GOD+LIKE+SPEED+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=450&height=100&lines=%E2%9A%A1+Hello!+I+am+eLsan+%E2%9A%A1;Data+Science+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,7 +25,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 </div>
 
-## ⚡ About Me ⚡
+##  About Me 
 
 <img align="right" alt="Zenitsu Coding" width="280" src="https://media.tenor.com/SwSdbd5D1P8AAAAC/zenitsu-thunder-breathing.gif">
 
@@ -45,7 +45,7 @@ Every dataset has a story — and I'm here to uncover it with the speed of thund
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 </div>
 
-## ⚡ Focus Areas ⚡
+## Focus Areas
 
 <div align="center">
 
@@ -60,7 +60,7 @@ Every dataset has a story — and I'm here to uncover it with the speed of thund
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 </div>
 
-### ⚡ Tech Stack ⚡
+###  Tech Stack 
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Every dataset has a story — and I'm here to uncover it with the speed of thund
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 </div>
 
-## ⚡ GitHub Trophies ⚡
+##  GitHub Trophies 
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=eLsann&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
@@ -84,7 +84,7 @@ Every dataset has a story — and I'm here to uncover it with the speed of thund
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 </div>
 
-## ⚡ GitHub Statistics ⚡
+##  GitHub Statistics 
 
 <div align="center">
   
@@ -101,7 +101,7 @@ Every dataset has a story — and I'm here to uncover it with the speed of thund
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 </div>
 
-## ⚡ Contribution Graph ⚡
+##  Contribution Graph 
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=eLsann&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area_color=FFD700&area=true&hide_border=true&radius=10" width="95%" alt="Activity"/>
@@ -111,13 +111,12 @@ Every dataset has a story — and I'm here to uncover it with the speed of thund
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 </div>
 
-## ⚡ Connect With Me ⚡
+##  Connect With Me 
 
 <div align="center">
   
 [![Gmail](https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:mhasannafi09@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/eLsann)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://linkedin.com/in/)
 
 </div>
 
