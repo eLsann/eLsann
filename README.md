@@ -65,7 +65,7 @@ Every dataset has a story — and I'm here to uncover it with the speed of thund
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,vscode,git,mysql,postgres,tensorflow,sklearn,pandas,numpy,matlab,seaborn,html,css,js&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,pandas,numpy,matlab,seaborn,matlab,mysql,postgres,jupyter&perline=7&theme=dark" />
 </a>
 
 </div>
