@@ -15,7 +15,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center" valign="middle">
 
 ```typescript
 const eLsan = {
@@ -29,7 +29,7 @@ const eLsan = {
 ```
 
 </td>
-<td width="50%">
+<td width="50%" align="center" valign="middle">
 
 <div align="center">
   ---
