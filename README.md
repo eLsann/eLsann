@@ -124,6 +124,11 @@ const eLsan = {
 
 <br/><br/>
 
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eLsann&theme=dark&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&stroke=FFD700&border=1a1a2e" alt="GitHub Streak" width="60%"/>
+
+<br/><br/>
+
 <!-- Profile Summary Card - Custom Theme -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eLsann&theme=github_dark" alt="Profile Summary" width="100%"/>
 
