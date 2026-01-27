@@ -33,10 +33,6 @@ const eLsan = {
 </td>
 <td width="50%" align="left" valign="middle">
 
-<div align="center">
-  ---
-</div>
-
 **🎯 What I Do:**
 - 📊 Build predictive models from data
 - 🤖 Develop ML algorithms  
@@ -73,7 +69,7 @@ const eLsan = {
 <br><sub>Pattern Recognition</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="DL" width="65" height="65" />
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="DL" width="65" height="65" />
 <br><strong>Deep Learning</strong>
 <br><sub>Neural Networks</sub>
 <br><sub>Computer Vision</sub>
@@ -92,22 +88,22 @@ const eLsan = {
 ### Languages & Databases
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" /> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
 
----
+<hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #FFD700, transparent); margin: 20px 0;"/>
 
 ### Machine Learning & Deep Learning  
 <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=sklearn" alt="Sklearn" width="55" height="55" />
 
----
+<hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #FFD700, transparent); margin: 20px 0;"/>
 
 ### Data Processing & Computer Vision
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="55" height="55" />
 
----
+<hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #FFD700, transparent); margin: 20px 0;"/>
 
 ### Visualization & Notebooks
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=anaconda" alt="Seaborn" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="55" height="55" />
 
----
+<hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #FFD700, transparent); margin: 20px 0;"/>
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git" alt="Git" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="55" height="55" /> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Colab" width="80" height="80" />
