@@ -142,14 +142,6 @@ const eLsan = {
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eLsann&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area_color=1a1a2e&area=true&hide_border=true&radius=15&custom_title=Contribution%20Graph" width="98%" alt="Activity Graph"/>
-</div>
-
----
-
 ## Connect With Me
 
 <div align="center">
