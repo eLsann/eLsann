@@ -27,7 +27,7 @@ Currently building projects with Python, TensorFlow, and PyTorch while exploring
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,opencv,matplotlib,git,vscode&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,git,vscode,anaconda,jupyter,github,docker&theme=dark&perline=5" />
 
 </div>
 
