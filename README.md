@@ -117,20 +117,12 @@ const eLsan = {
 
 ## GitHub Statistics
 
-<div align="center">
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=eLsann&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" width="100%"/>
-
-<br/><br/>
-
 <!-- GitHub Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eLsann&layout=compact&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&border_color=1a1a2e&hide_progress=true" alt="Top Languages" width="60%"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eLsann&layout=compact&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&border_color=1a1a2e&hide_progress=true" />
 <br/><br/>
 
 <!-- Profile Summary Card - Custom Theme -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eLsann&theme=github_dark" alt="Profile Summary" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eLsann&theme=github_dark" alt="Profile Summary" width="60%"/>
 
 <br/>
 
