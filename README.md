@@ -125,7 +125,7 @@ const eLsan = {
 <br/><br/>
 
 <!-- GitHub Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eLsann&layout=compact&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=1a1a2e&hide_border=false" alt="Top Languages" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eLsann&layout=compact&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&border_color=1a1a2e&hide_progress=true" alt="Top Languages" width="60%"/>
 
 <br/><br/>
 
