@@ -10,25 +10,35 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
 
-## 👨‍💻 About Me
+## About Me
 
 <div align="center">
 
-Hi! I'm **Hasan Nafi**, an Informatics Engineering student from Indonesia 🇮🇩
+### Hi there! 👋 I'm **Hasan Nafi**
+
+Informatics Engineering Student from Indonesia 🇮🇩
 
 <br/>
 
-### 🌱 Currently Learning:
-**Data Science & Machine Learning** • **Deep Learning & Computer Vision** • **Python for Data Analysis**
+### Currently Learning
+
+<img src="https://img.shields.io/badge/Data%20Science-FFD700?style=for-the-badge&logo=databricks&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FFD700?style=for-the-badge&logo=tensorflow&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/Deep%20Learning-FFD700?style=for-the-badge&logo=pytorch&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/Computer%20Vision-FFD700?style=for-the-badge&logo=opencv&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=0D1117" />
+
+<br/><br/>
+
+### My Journey
+
+*I'm passionate about turning data into insights.*  
+*Still learning and growing every day!* 📚
 
 <br/>
 
-### ⚡ My Journey:
-I'm passionate about turning data into insights. Still learning and growing every day!
-
-<br/>
-
-> *"If you can only do one thing, hone it to perfection."* — Zenitsu Agatsuma ⚡
+> **"If you can only do one thing, hone it to perfection."**  
+> — Zenitsu Agatsuma ⚡
 
 </div>
 
