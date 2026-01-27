@@ -38,7 +38,7 @@ Currently building projects with Python, TensorFlow, and PyTorch while exploring
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50" />
+<img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="50" height="50" />
 
 </div>
 
