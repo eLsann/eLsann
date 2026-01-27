@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:FFD700&height=180&section=header&text=M.%20Hasan%20Nafi&fontSize=36&fontColor=FFD700&animation=fadeIn&fontAlignY=32&desc=Data%20Scientist%20•%20Machine%20Learning%20Enthusiast&descSize=14&descAlignY=52"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=400&lines=Hello!+I+am+eLsan;Data+Science+Enthusiast;Always+Learning+New+Things;Thunder+Breathing+First+Form!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=400&lines=Hello!+I+am+eLsan;Data+Science+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </a>
 </div>
 
@@ -18,8 +18,6 @@
 
 Informatics Engineering Student from Indonesia 🇮🇩
 
-<br/>
-
 ### Currently Learning
 
 <img src="https://img.shields.io/badge/Data%20Science-FFD700?style=for-the-badge&logo=databricks&logoColor=0D1117" />
@@ -28,12 +26,12 @@ Informatics Engineering Student from Indonesia 🇮🇩
 <img src="https://img.shields.io/badge/Computer%20Vision-FFD700?style=for-the-badge&logo=opencv&logoColor=0D1117" />
 <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=0D1117" />
 
-<br/><br/>
+<br/>
 
 ### My Journey
 
 *I'm passionate about turning data into insights.*  
-*Still learning and growing every day!* 📚
+*Still learning and growing every day!* 
 
 <br/>
 
