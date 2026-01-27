@@ -118,11 +118,11 @@ const eLsan = {
 ## GitHub Statistics
 
 <!-- GitHub Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eLsann&layout=compact&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&border_color=1a1a2e&hide_progress=true" />
-<br/><br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eLsann&theme=github_dark" />
+<br/>
 
 <!-- Profile Summary Card - Custom Theme -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eLsann&theme=github_dark" alt="Profile Summary" width="60%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eLsann&theme=github_dark" alt="Profile Summary" width="80%"/>
 
 <br/>
 
