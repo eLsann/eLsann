@@ -14,36 +14,21 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="left" valign="middle">
+Hi! I'm **Hasan Nafi**, an Informatics Engineering student from Indonesia 🇮🇩
 
-```typescript
-const eLsan = {
-    location: "Indonesia 🇮🇩",
-    education: "Informatics Engineering",
-    interests: ["Data Science", "Machine Learning"],
-    currentFocus: "Deep Learning & Computer Vision",
-    languages: ["Python"],
-    motto: "Every dataset tells a story"
-};
-```
+<br/>
 
-</td>
-<td width="50%" align="left" valign="middle">
+### 🌱 Currently Learning:
+**Data Science & Machine Learning** • **Deep Learning & Computer Vision** • **Python for Data Analysis**
 
-**🎯 What I Do:**
-- 📊 Build predictive models from data
-- 🤖 Develop ML algorithms  
-- 🔬 Explore neural networks
-- 📈 Extract actionable insights
+<br/>
 
-> *"If you can only do one thing, hone it to perfection."*  
-> — Zenitsu Agatsuma ⚡
+### ⚡ My Journey:
+I'm passionate about turning data into insights. Still learning and growing every day!
 
-</td>
-</tr>
-</table>
+<br/>
+
+> *"If you can only do one thing, hone it to perfection."* — Zenitsu Agatsuma ⚡
 
 </div>
 
