@@ -117,18 +117,21 @@ const eLsan = {
 
 ## GitHub Statistics
 
-<!-- GitHub Top Languages -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eLsann&theme=github_dark" />
+<div align="center">
+
+<!-- Stats Overview - 2 columns -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=eLsann&show_icons=true&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=1a1a2e&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eLsann&layout=compact&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&border_color=1a1a2e" />
+
+<br/><br/>
+
+<!-- Profile Details -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eLsann&theme=github_dark" alt="Profile Summary" width="100%"/>
+
 <br/>
 
-<!-- Profile Summary Card - Custom Theme -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eLsann&theme=github_dark" alt="Profile Summary" width="80%"/>
-
-<br/>
-
-<!-- Additional Summary Stats -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eLsann&theme=github_dark" alt="Stats"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eLsann&theme=github_dark&utcOffset=7" alt="Productive Time"/>
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eLsann&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area_color=1a1a2e&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
 
 </div>
 
