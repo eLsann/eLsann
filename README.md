@@ -1,139 +1,67 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:FFD700&height=180&section=header&text=M.%20Hasan%20Nafi&fontSize=36&fontColor=FFD700&animation=fadeIn&fontAlignY=32&desc=Data%20Scientist%20•%20Machine%20Learning%20Enthusiast&descSize=14&descAlignY=52"/>
+# M. Hasan Nafi
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=400&lines=Hello!+I+am+eLsan;Data+Science+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-</a>
-</div>
+**Informatics Engineering Student** • **Indonesia** 🇮🇩
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
-
-## About Me
-
-<div align="center">
-
-### Hi there! 👋 I'm **Hasan Nafi**
-
-Informatics Engineering Student from Indonesia 🇮🇩
-
-### Currently Learning
-
-<img src="https://img.shields.io/badge/Data%20Science-FFD700?style=for-the-badge&logo=databricks&logoColor=0D1117" />
-<img src="https://img.shields.io/badge/Machine%20Learning-FFD700?style=for-the-badge&logo=tensorflow&logoColor=0D1117" />
-<img src="https://img.shields.io/badge/Deep%20Learning-FFD700?style=for-the-badge&logo=pytorch&logoColor=0D1117" />
-<img src="https://img.shields.io/badge/Computer%20Vision-FFD700?style=for-the-badge&logo=opencv&logoColor=0D1117" />
-<img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=0D1117" />
-
-<br/>
-
-### My Journey
-
-*I'm passionate about turning data into insights.*  
-*Still learning and growing every day!* 
-
-<br/>
-
-> **"If you can only do one thing, hone it to perfection."**  
-> — Zenitsu Agatsuma ⚡
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
-
-## Focus Areas
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-<br><strong>Data Science</strong>
-<br><sub>Predictive Models</sub>
-<br><sub>Statistical Analysis</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="ML" width="65" height="65" />
-<br><strong>Machine Learning</strong>
-<br><sub>Algorithm Development</sub>
-<br><sub>Pattern Recognition</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://api.iconify.design/mdi:brain.svg?color=%23FFD700" alt="DL" width="65" height="65" />
-<br><strong>Deep Learning</strong>
-<br><sub>Neural Networks</sub>
-<br><sub>Computer Vision</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
-
-## Tech Stack
-
-<div align="center">
-
-### Languages & Databases
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" /> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
-
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #FFD700, transparent); margin: 20px 0;"/>
-
-### Machine Learning & Deep Learning  
-<img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=sklearn" alt="Sklearn" width="55" height="55" />
-
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #FFD700, transparent); margin: 20px 0;"/>
-
-### Data Processing & Computer Vision
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="55" height="55" />
-
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #FFD700, transparent); margin: 20px 0;"/>
-
-### Visualization & Notebooks
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=anaconda" alt="Seaborn" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="55" height="55" />
-
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #FFD700, transparent); margin: 20px 0;"/>
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git" alt="Git" width="55" height="55" /> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="55" height="55" /> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Colab" width="80" height="80" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="900" />
-
-
-
-
-## GitHub Statistics
-
-<div align="center">
-
-<!-- Stats Overview - 2 columns -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=eLsann&show_icons=true&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=1a1a2e&hide_border=false" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eLsann&layout=compact&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&border_color=1a1a2e" />
-
-<br/><br/>
-
-<!-- Profile Details -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eLsann&theme=github_dark" alt="Profile Summary" width="100%"/>
-
-<br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eLsann&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area_color=1a1a2e&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=eLsann&color=FFD700&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## Connect With Me
+## About
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:mhasannafi09@gmail.com)
+Informatics Engineering student passionate about Machine Learning and Computer Vision.  
+Currently building projects with Python, TensorFlow, and PyTorch while exploring Deep Learning fundamentals.
+
+**Open to collaborate** • **Always learning**
+
+</div>
+
+---
+
+## Technical Skills
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=0D1117)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FFD700?style=for-the-badge&logo=tensorflow&logoColor=0D1117)
+![PyTorch](https://img.shields.io/badge/PyTorch-FFD700?style=for-the-badge&logo=pytorch&logoColor=0D1117)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FFD700?style=for-the-badge&logo=scikitlearn&logoColor=0D1117)
+![Pandas](https://img.shields.io/badge/Pandas-FFD700?style=for-the-badge&logo=pandas&logoColor=0D1117)
+![NumPy](https://img.shields.io/badge/NumPy-FFD700?style=for-the-badge&logo=numpy&logoColor=0D1117)
+![OpenCV](https://img.shields.io/badge/OpenCV-FFD700?style=for-the-badge&logo=opencv&logoColor=0D1117)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFD700?style=for-the-badge&logo=plotly&logoColor=0D1117)
+![Jupyter](https://img.shields.io/badge/Jupyter-FFD700?style=for-the-badge&logo=jupyter&logoColor=0D1117)
+![Git](https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=0D1117)
+
+</div>
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=eLsann&show_icons=true&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=1a1a2e&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eLsann&layout=compact&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&border_color=1a1a2e" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eLsann&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area_color=1a1a2e&area=true&hide_border=true&custom_title=Contribution%20Activity" width="98%" />
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:mhasannafi09@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/eLsann)
 
 </div>
@@ -142,8 +70,6 @@ Informatics Engineering Student from Indonesia 🇮🇩
 
 <div align="center">
 
-*Thanks for visiting my profile!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:1a1a2e,100:0D1117&height=100&section=footer"/>
+*"If you can only do one thing, hone it to perfection."* — Zenitsu Agatsuma
 
 </div>
