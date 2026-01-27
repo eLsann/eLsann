@@ -27,16 +27,7 @@ Currently building projects with Python, TensorFlow, and PyTorch while exploring
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=0D1117)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FFD700?style=for-the-badge&logo=tensorflow&logoColor=0D1117)
-![PyTorch](https://img.shields.io/badge/PyTorch-FFD700?style=for-the-badge&logo=pytorch&logoColor=0D1117)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FFD700?style=for-the-badge&logo=scikitlearn&logoColor=0D1117)
-![Pandas](https://img.shields.io/badge/Pandas-FFD700?style=for-the-badge&logo=pandas&logoColor=0D1117)
-![NumPy](https://img.shields.io/badge/NumPy-FFD700?style=for-the-badge&logo=numpy&logoColor=0D1117)
-![OpenCV](https://img.shields.io/badge/OpenCV-FFD700?style=for-the-badge&logo=opencv&logoColor=0D1117)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FFD700?style=for-the-badge&logo=plotly&logoColor=0D1117)
-![Jupyter](https://img.shields.io/badge/Jupyter-FFD700?style=for-the-badge&logo=jupyter&logoColor=0D1117)
-![Git](https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=0D1117)
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,opencv,matplotlib,git,vscode&theme=dark&perline=5" />
 
 </div>
 
