@@ -124,8 +124,8 @@ const eLsan = {
 
 <br/><br/>
 
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eLsann&theme=dark&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&stroke=FFD700&border=1a1a2e" alt="GitHub Streak" width="60%"/>
+<!-- GitHub Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eLsann&layout=compact&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=1a1a2e&hide_border=false" alt="Top Languages" width="60%"/>
 
 <br/><br/>
 
